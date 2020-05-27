@@ -123,8 +123,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*********************************************"
-  ui_print "     pastel for Android                          "
-  ui_print "         - v 0.7.1                           "
+  ui_print "     pastel for Android                      "
+  ui_print "         - v 0.8.0                           "
   ui_print "         - built by nelshh @ xda-developers  "
   ui_print "*********************************************"
 }

@@ -6,6 +6,9 @@ This Magisk module installs the latest stable version of the pastel tool to the 
 
 ## Change Log
 
+### v1.1 - 2020-05-27
+* Updated pastel to 0.8.0
+
 ### v1.0 - 2019-08-07
 * Initial release
 

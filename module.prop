@@ -1,6 +1,6 @@
 id=pastel-nelshh
 name=pastel for Android
 version=v0.8.0
-versionCode=2
+versionCode=3
 author=nelshh
 description=A statically built version of the pastel tool for android (aarch64)
